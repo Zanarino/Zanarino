@@ -18,4 +18,4 @@ Meu nome é Rafael Zanarino e sou ex-fisioterapeuta, estudando Data Science para
 
 - 🔭 Estudo Data Science.
 - 🤓 Atualmente, estudo Python, Git, VS Code, Pandas, Numpy, Jupyter Notebook.
-- 👨‍💻
+- 👨‍💻 Busco desenvolver na área de Dados, especialmente Dados em Saúde.
